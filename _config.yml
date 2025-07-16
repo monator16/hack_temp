@@ -2,7 +2,6 @@ title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: Asia/Seoul
 baseurl: "/hack_temp"
-url: "https://monator16.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
